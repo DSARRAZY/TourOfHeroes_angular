@@ -12,6 +12,9 @@ h1 {
   }
   body {
     margin: 2em;
+    /**background-image: url(./assets/img/clash-of-clan.jpg);
+    background-repeat: no-repeat;
+    background-position: center;*/
   }
   body, input[type="text"], button {
     color: #333;
